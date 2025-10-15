@@ -35,11 +35,11 @@
 * Использовал DevTools для отладки фронтенда и проверки данных в cookies и LocalStorage.
 * Тестировал верстку на соответствие макетам в Figma.
 
+---
+
+### ✨ Статистика GitHub и обратная связь
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nightwalk837&show_icons=true&theme=github_dark)
+
 📫 Связаться со мной:  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sugaknife)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nightwalk837@gmail.com)
-
----
-
-### ✨ Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nightwalk837&show_icons=true&theme=github_dark)
